@@ -1,6 +1,38 @@
 {
-  "users": [{ "id": 1, "'name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": "fb57",
+      "name": "Darrin Harber"
+    },
+    {
+      "id": "2fc3",
+      "name": "Iris Ortiz"
+    },
+    {
+      "id": "968f",
+      "name": "Mr. Laura Graham"
+    },
+    {
+      "id": "1527",
+      "name": "Ismael Herzog"
+    },
+    {
+      "id": "ef9f",
+      "name": "Brandi Olson DVM"
+    },
+    {
+      "id": "d3a2",
+      "name": "Terence Langworth"
+    },
+    {
+      "id": "d5b5",
+      "name": "Mrs. Maureen Barton PhD"
+    }
+  ],
   "albums": [],
   "photos": []
 }
-
